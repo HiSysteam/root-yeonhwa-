@@ -1,0 +1,1 @@
+  if loyaltyy == 0
